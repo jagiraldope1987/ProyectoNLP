@@ -1,2 +1,2 @@
-# ProyectoNLP
-RepositorioNPL
+# NLP
+Repositorio de ejercicios practicados sobre NLP
